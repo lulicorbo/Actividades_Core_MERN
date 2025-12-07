@@ -1,0 +1,26 @@
+.contenedor {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.opciones {
+  margin-top: 30px;
+}
+
+.boton {
+  display: inline-block;
+  background-color: #007bff;
+  padding: 12px 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.boton:hover {
+  background-color: #0056b3;
+}
+
+
+/*no usar*/

@@ -1,0 +1,47 @@
+.contenedor {
+  max-width: 700px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #33404d;
+  margin-bottom: 25px;
+}
+
+/* input de busqueda */
+.buscador {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.item {
+  margin: 12px 0;
+  font-size: 18px;
+}
+
+.link {
+  text-decoration: none;
+  color: #3b5bdb; 
+  font-weight: 600;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.detalle {
+  color: #555;
+}

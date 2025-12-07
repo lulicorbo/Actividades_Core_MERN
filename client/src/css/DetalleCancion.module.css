@@ -1,0 +1,59 @@
+.contenedor {
+  max-width: 700px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.titulo {
+  font-size: 2rem;
+  color: #33404d;
+  margin-bottom: 30px;
+}
+
+.info {
+  font-size: 20px;
+  margin: 10px 0;
+  color: #33404d;
+}
+
+.botones {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.btnEditar {
+  background-color: #a8d0e6;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btnEliminar {
+  background-color: #ff6b6b;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+
+.btnEditar:hover {
+  background-color: #8bc3d8;
+}
+
+.btnEliminar:hover {
+  background-color: #e85a5a;
+}
+
+.volver {
+  margin-top: 20px;
+  display: block;
+  color: #5a4ee6;
+  font-size: 18px;
+}
