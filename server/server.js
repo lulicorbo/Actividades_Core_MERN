@@ -9,7 +9,7 @@ import usersRoutes from './rutas/users.route.js';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT2 || 8080;
+const PORT = process.env.PORT2 || 8000;
 
 // MIDDLEWARES
 app.use(cors());    
