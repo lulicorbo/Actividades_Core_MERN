@@ -12,3 +12,5 @@
 
 🟢 **Verde:** completa  
 🔴 **Rojo:** no completa  
+
+
